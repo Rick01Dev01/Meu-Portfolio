@@ -1,0 +1,14 @@
+
+/* Estilizando o corpo */
+body {
+    font-family: Arial, sans-serif;
+}
+
+  /* Estilizando a seção de portfólio */
+.card {
+    transition: all 0.3s ease-in-out;
+}
+
+.card:hover {
+    transform: scale(1.05);
+}
